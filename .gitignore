@@ -1,0 +1,8 @@
+.vscode
+.pytest_cache
+__pycache__
+build
+dist
+multi_cred_verifier_python.egg-info
+venv
+verifier_log.log
